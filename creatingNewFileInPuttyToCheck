@@ -22,4 +22,11 @@ let me check about the build in jenkins.
 
 Changed Jenkins timings to IST. 
 Afer changing this is my first commit.
-this change belongs to build-3.
+this change belongs to build-3. 
+I checked IST after writing this 4 lines in putty and Commiting.
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Jenkins IST is workingfine.
+Now, i am adding this 2 lines extra from git to test Jenkins IST and Auto-Build status.
+This belongs to Build-4.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
