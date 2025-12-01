@@ -30,3 +30,7 @@ Jenkins IST is workingfine.
 Now, i am adding this 2 lines extra from git to test Jenkins IST and Auto-Build status.
 This belongs to Build-4.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Checking PollSCM:
+Adding this extra to check PollScm
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
